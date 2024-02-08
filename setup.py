@@ -16,7 +16,7 @@ setup(
     version='0.6.0',
     author='Joel Yancey,',
     author_email='j.y@ucla.edu',
-    description='AlignEM is a GUI for aligning or "registering" electron microscopy images',
+    description='AlignEM is a GUI for aligning or "registering" electron microscopy images using SWiFT-IR',
     long_description=long_description,
     long_description_content_type='text/markdown',
     platforms=['any'],
