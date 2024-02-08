@@ -1,0 +1,48 @@
+#070d12 - dark steel blue
+#336699 - websafe dark steel blue
+#808080 - #128 grey
+#004060 - drafting blue
+#a30000 - dark candy apple red
+#161c20 - dark charcoal
+#f3f6fb - New Snow White (https://www.color-name.com/snow-white.color)
+#ede9e8 - my dirty white
+#141414 - Chinese Black (darker than Duron)
+#d3d3d3 - new lightish grey: qlineedit, qcombobox border
+#222222 - Neuroglancer grey
+#339933 - Neuroglancer green (*** 40% lightness ***)
+#194d19 - Neuroglancer green (20% lightness)
+#9fdf9f - Neuroglancer green, (75% lightness)
+#b3e6b3 - Neuroglancer green, (80% lightness)
+#c6ecc6 - Neuroglancer green, (85% lightness)
+#d9f2d9 - Neuroglancer green, (90% lightness)
+#FFFF66 = Neuroglancer light yellow (text)
+#FFFF00 - standard yellow
+#2774ae - Blue
+#ffd100 - Gold
+#8bb8e8 - Lighter Blue
+#daebfe - Lightest Blue
+#003b5c - Darkest Blue
+#06470c - forest green
+#380282 - indigo
+#ebecf0 - "bright" grey
+#ffcccb - very light red
+#d0342c - pantone (Red Alert)
+#ffcccb - very light red
+#708090 - (light) slate grey
+#39ff14 - neon green
+#00BF00 - pure green
+#0096ff - bright blue
+#003333 - dark green
+#dadada - light grey
+#FFE873 - Shandy (Python yellow)
+#FFD43B - Sunglow (Python darker yellow)
+#8f99fb - periwinkle blue from Dreamgirls
+#AAFF00 - bright green
+#fd411e - Orange-Red
+#874c62 - dark muave
+#010fcc - true blue
+
+https://xkcd.com/color/rgb/
+
+regex to remove empty lines: ^\s*^
+
