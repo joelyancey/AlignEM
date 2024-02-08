@@ -3,6 +3,7 @@
 *.egg-info
 build/*
 dist/*
+notes.txt
 
 # PyCharm
 **/.idea
