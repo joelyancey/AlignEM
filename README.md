@@ -1,4 +1,4 @@
-# AlignEM
+# AlignEM: An Intuitive GUI for Electron Micrograph Image Registration
 
 ## macOS (perform steps 1-5 only once):
 1. Install conda if it is not already. I recommend the slimmed down [Miniconda installation](https://www.anaconda.com/docs/getting-started/miniconda/install).
