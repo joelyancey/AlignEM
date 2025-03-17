@@ -1,6 +1,6 @@
 # AlignEM
 
-## macOS (perform steps 1-6 only once):
+## macOS (perform steps 1-5 only once):
 1. Install conda if it is not already. I recommend the slimmed down [Miniconda installation](https://www.anaconda.com/docs/getting-started/miniconda/install).
 2. [Download](https://github.com/joelyancey/AlignEM/archive/refs/heads/main.zip) .zip archive of AlignEM from GitHub.
 3. Double click on the .zip archive file to extract
