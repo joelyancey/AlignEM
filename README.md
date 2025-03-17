@@ -16,7 +16,7 @@
    It may take several minutes to build the pre-configured environment. This only must be done once. 
 6. *Start here if preceding steps have already been completed*. In Terminal, run from AlignEM-main/ directory:
 
-   Activate the pre-configured environment named 'align-env':
+   Activate the pre-configured conda environment 'align-env':
 
    `conda activate align-env`
 
