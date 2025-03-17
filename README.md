@@ -8,7 +8,7 @@
    
    `cd ~/Downloads/AlignEM-main/`
    
-   The AlignEM-main directory contains everything needed to run the program. It can be moved around on your file system for convenient access in the future.
+   The AlignEM-main directory contains everything the program needs to run. It can be moved around on your file system for convenient access in the future.
 6. In Terminal, run from AlignEM-main/ directory:
    
    `conda env create -y -f macOS.yml`
