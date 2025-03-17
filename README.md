@@ -16,7 +16,7 @@
    It may take several minutes to build the pre-configured environment. This only must be done once. 
 7. *Start here if preceding steps have already been completed*. In Terminal, run from AlignEM-main/ directory:
 
-   `conda activate align-env  # <- Load the environment pre-configuired for macOS`
+   `conda activate align-env  # <- Activate conda environment named 'align-env'`
    
    `python3 alignem.py        # <- Launch AlignEM`
    
