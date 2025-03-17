@@ -8,20 +8,16 @@
    
    `cd ~/Downloads/AlignEM-main/`
    
-   The AlignEM-main directory contains everything the program needs to run. It can be moved out of Downloads for convenient access in the future.
-5. In Terminal, run from AlignEM-main/ directory:
+   *The AlignEM-main directory contains everything the program needs to run. It can be moved out of Downloads.*
+5. In Terminal, run from AlignEM-main/:
    
    `conda env create -y -f macOS.yml`
    
-   It may take several minutes to build the pre-configured environment. This only must be done once. 
-6. *Start here if preceding steps have already been completed*. In Terminal, run from AlignEM-main/ directory:
-
-   Activate the pre-configured conda environment 'align-env':
-
+   *It may take several minutes to build the pre-configured alignment environment.*
+6. <ins>**Launch AlignEM GUI**</ins>. In Terminal, run from AlignEM-main/:
+   
    `conda activate align-env`
-
-   Launch AlignEM:
-
+   
    `python3 alignem.py`
    
-   It may take several minutes for the AlignEM GUI to spool up.
+   *It may take several minutes for the AlignEM GUI to spool up.*
