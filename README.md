@@ -21,3 +21,17 @@
    `python3 alignem.py`
    
    *It may take several minutes for the AlignEM GUI to spool up.*
+
+   ## Screenshots
+
+![screenshot](assets/screenshot00.png)
+![screenshot](assets/screenshot17.png)
+![screenshot](assets/screenshot07.png)
+![screenshot](assets/screenshot08.png)
+![screenshot](assets/screenshot10.png)
+![screenshot](assets/screenshot11.png)
+![screenshot](assets/screenshot12.png)
+![screenshot](assets/screenshot14.png)
+
+
+    
