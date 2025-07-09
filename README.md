@@ -22,6 +22,9 @@ The complete commit history for AlignEM is located here: [AlignEM: fb30_joel bra
    
    *It may take several minutes for the AlignEM GUI to spool up.*
 
+## Society For Neuroscience Presentation by Joel Yancey
+![screenshot](assets/joelyancey-sfn-poster.jpg)
+
 ## Screenshots
 
 ![screenshot](assets/screenshot00.png)
@@ -32,7 +35,4 @@ The complete commit history for AlignEM is located here: [AlignEM: fb30_joel bra
 ![screenshot](assets/screenshot11.png)
 ![screenshot](assets/screenshot12.png)
 ![screenshot](assets/screenshot14.png)
-
-## Society For Neuroscience Presentation by Joel Yancey
-![screenshot](assets/joelyancey-sfn-poster.jpg)
 
