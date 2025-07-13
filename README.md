@@ -18,7 +18,7 @@ The complete commit history for AlignEM is located here: [AlignEM: fb30_joel bra
    
    `conda activate align-env`
    
-   `python3 alignem.py`
+   `./alignem`
    
    *It may take several minutes for the AlignEM GUI to spool up.*
 
