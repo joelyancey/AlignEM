@@ -9,9 +9,9 @@ The complete commit history for AlignEM is located here: [AlignEM: fb30_joel bra
    
    *The AlignEM-main directory contains everything the program needs to run. It can be moved out of Downloads.*
 
-5. (**Linux only**) In Terminal, run from AlignEM-main/: `conda env create -y -f linux.yml`
+5. (**Linux only**) In Terminal, run from AlignEM-main/: `conda env create -f linux.yml`
 
-   (**macOS only**) In Terminal, run from AlignEM-main/: `conda env create -y -f macOS.yml`
+   (**macOS only**) In Terminal, run from AlignEM-main/: `conda env create -f macOS.yml`
    
    *It may take several minutes to build the pre-configured alignment environment.*
 7. <ins>**Launch AlignEM GUI**</ins>. In Terminal, run from AlignEM-main/:
