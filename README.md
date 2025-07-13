@@ -1,5 +1,5 @@
 # AlignEM: An Intuitive & Fast GUI for EM Image Registration
-The complete commit history for AlignEM is located here: [AlignEM: fb30_joel branch](https://github.com/mcellteam/swift-ir/tree/fb30_joel)
+Commit history prior to 2024-02-08 is located here: [AlignEM: fb30_joel branch](https://github.com/mcellteam/swift-ir/tree/fb30_joel)
 
 ## Linux or macOS (perform steps 1-5 only once):
 1. Install conda if it is not already. I recommend the slimmed down [Miniconda installation](https://www.anaconda.com/docs/getting-started/miniconda/install).
