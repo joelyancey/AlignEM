@@ -934,7 +934,7 @@ class PMViewer(AbstractEMViewer):
 
     def initViewer(self):
         path = self.path
-        # logger.critical(f"INITIALIZING [{self.name}]\nLoading: {path}")
+        logger.info(f"Initializing [{self.name}] Loading: {path}")
 
         if not Path(path).exists():
             logger.warning(f"[{self.name}] not found: {path}")
