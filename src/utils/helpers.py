@@ -418,7 +418,10 @@ def check_for_binaries():
     if platform.system() == 'Darwin':
         bindir = os.path.join(path, '../lib', 'bin_darwin')
     elif platform.system() == 'Linux':
-        bindir = os.path.join(path, '../lib', 'bin_tacc') if '.tacc.utexas.edu' in platform.node() else 'bin_linux'
+        if '.tacc.utexas.edu' in platform.node():
+            bindir = os.path.join(path, '../lib', 'bin_tacc')
+        else:
+            bindir = os.path.join(path, '../lib', 'bin_linux')
     else:
         logger.warning("System Could Not Be Resolved. C Binaries Not Found.")
         return
